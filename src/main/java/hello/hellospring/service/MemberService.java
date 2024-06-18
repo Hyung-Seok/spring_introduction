@@ -24,6 +24,7 @@ public class MemberService {
      */
     public Long join(Member member){
 
+
         long start = System.currentTimeMillis();
 
 //        try{
